@@ -1,7 +1,3 @@
-Here’s a detailed and structured README file for your **Library Management API with Django and DRF** project:
-
----
-
 # Library Management API with Django and DRF 📚
 
 This project is a backend API for managing a library system, built with Django and Django REST Framework (DRF). It supports user authentication, role-based access, and CRUD operations for books. Members can view and borrow available books, while admins can manage the library's book collection and access library statistics via a dedicated dashboard.
