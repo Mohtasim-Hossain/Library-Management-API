@@ -9,7 +9,6 @@ This project is a backend API for managing a library system, built with Django a
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Key Features
